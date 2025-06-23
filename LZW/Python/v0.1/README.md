@@ -1,7 +1,7 @@
 # 🔐 My First File Compressor - LZW Algorithm (Python)
 
 This is the python implementation for my program.
-Created on **23.06.2025** by **Sertac Atac**.
+Created on **23.06.2025**.
 
 ## Features
 
