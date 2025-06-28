@@ -43,7 +43,9 @@ LZW/
 - Uses a dictionary of `{string: code}` pairs.
 
 ### How to Run:
+```
 python3 Python/lzw_compressor.py
+```
 
 ---
 
@@ -59,9 +61,11 @@ python3 Python/lzw_compressor.py
 - Includes size comparison and clear memory management.
 
 ### ▶️ How to Compile & Run:
+```
 cd C
 gcc -o lzw_compressor lzw_compressor.c
 ./lzw_compressor
+```
 
 ---
 
